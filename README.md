@@ -1,5 +1,5 @@
 # Udemy Course Analysis and Recommendation System
-![Udemy Logo](https://teach.udemy.com/wp-content/uploads/2021/08/Udemy_Logo_3280x1712-scaled.jpg)
+![Udemy Logo](/logo.jpg)
 
 ## Overview
 This project analyzes Udemy course data to generate a recommendation system that suggests courses based on user preferences (free or paid, specific subject). It also predicts whether a course is paid or free using machine learning models, and generates business insights to improve course offerings.
